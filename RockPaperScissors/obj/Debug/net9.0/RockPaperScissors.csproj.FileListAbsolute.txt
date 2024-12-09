@@ -1,0 +1,15 @@
+C:\Users\Christopher\Proton Drive\chri20q5\My files\JetBrains\RockPaperScissors\RockPaperScissors\obj\Debug\net9.0\RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christopher\Proton Drive\chri20q5\My files\JetBrains\RockPaperScissors\RockPaperScissors\obj\Debug\net9.0\RockPaperScissors.AssemblyInfoInputs.cache
+C:\Users\Christopher\Proton Drive\chri20q5\My files\JetBrains\RockPaperScissors\RockPaperScissors\obj\Debug\net9.0\RockPaperScissors.AssemblyInfo.cs
+C:\Users\Christopher\Proton Drive\chri20q5\My files\JetBrains\RockPaperScissors\RockPaperScissors\obj\Debug\net9.0\RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\Christopher\Proton Drive\chri20q5\My files\JetBrains\RockPaperScissors\RockPaperScissors\obj\Debug\net9.0\RockPaperScissors.sourcelink.json
+C:\Users\Christopher\Proton Drive\chri20q5\My files\JetBrains\RockPaperScissors\RockPaperScissors\bin\Debug\net9.0\RockPaperScissors.exe
+C:\Users\Christopher\Proton Drive\chri20q5\My files\JetBrains\RockPaperScissors\RockPaperScissors\bin\Debug\net9.0\RockPaperScissors.deps.json
+C:\Users\Christopher\Proton Drive\chri20q5\My files\JetBrains\RockPaperScissors\RockPaperScissors\bin\Debug\net9.0\RockPaperScissors.runtimeconfig.json
+C:\Users\Christopher\Proton Drive\chri20q5\My files\JetBrains\RockPaperScissors\RockPaperScissors\bin\Debug\net9.0\RockPaperScissors.dll
+C:\Users\Christopher\Proton Drive\chri20q5\My files\JetBrains\RockPaperScissors\RockPaperScissors\bin\Debug\net9.0\RockPaperScissors.pdb
+C:\Users\Christopher\Proton Drive\chri20q5\My files\JetBrains\RockPaperScissors\RockPaperScissors\obj\Debug\net9.0\RockPaperScissors.dll
+C:\Users\Christopher\Proton Drive\chri20q5\My files\JetBrains\RockPaperScissors\RockPaperScissors\obj\Debug\net9.0\refint\RockPaperScissors.dll
+C:\Users\Christopher\Proton Drive\chri20q5\My files\JetBrains\RockPaperScissors\RockPaperScissors\obj\Debug\net9.0\RockPaperScissors.pdb
+C:\Users\Christopher\Proton Drive\chri20q5\My files\JetBrains\RockPaperScissors\RockPaperScissors\obj\Debug\net9.0\RockPaperScissors.genruntimeconfig.cache
+C:\Users\Christopher\Proton Drive\chri20q5\My files\JetBrains\RockPaperScissors\RockPaperScissors\obj\Debug\net9.0\ref\RockPaperScissors.dll
